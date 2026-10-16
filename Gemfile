@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 # The implementation under test: Dependabot keeps it (and Gemfile.lock) at the latest release.
-gem "corvus_json_schema", "0.1.2"
+gem "corvus_json_schema", "0.1.3"
