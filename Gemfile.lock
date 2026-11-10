@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    corvus_json_schema (0.2.1-aarch64-linux-gnu)
-    corvus_json_schema (0.2.1-aarch64-linux-musl)
-    corvus_json_schema (0.2.1-arm64-darwin)
-    corvus_json_schema (0.2.1-x86_64-darwin)
-    corvus_json_schema (0.2.1-x86_64-linux-gnu)
-    corvus_json_schema (0.2.1-x86_64-linux-musl)
+    corvus_json_schema (0.2.2-aarch64-linux-gnu)
+    corvus_json_schema (0.2.2-aarch64-linux-musl)
+    corvus_json_schema (0.2.2-arm64-darwin)
+    corvus_json_schema (0.2.2-x86_64-darwin)
+    corvus_json_schema (0.2.2-x86_64-linux-gnu)
+    corvus_json_schema (0.2.2-x86_64-linux-musl)
 
 PLATFORMS
   aarch64-linux
@@ -17,15 +17,15 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  corvus_json_schema (= 0.2.1)
+  corvus_json_schema (= 0.2.2)
 
 CHECKSUMS
-  corvus_json_schema (0.2.1-aarch64-linux-gnu) sha256=d053de30c2b1ab5f4f39a01f78b4c8ebf557ae18dd719820e977b900de518074
-  corvus_json_schema (0.2.1-aarch64-linux-musl) sha256=71083f41354c10b91ffa3dad35a680e9f2bd02e7163a4d2f0f512cee9b3b5708
-  corvus_json_schema (0.2.1-arm64-darwin) sha256=a11404a928cbfa288ce496dd64ba6bcd21810211dd42a8dd0d86068445dba156
-  corvus_json_schema (0.2.1-x86_64-darwin) sha256=70c2ba1eff21f6f98a677766916ec05beed394203fbc00d5b3c99ee62104735f
-  corvus_json_schema (0.2.1-x86_64-linux-gnu) sha256=23ddad59cfc8b78b81db2df249d5ae2654ccd06966a4711f04fe57a1ff4fdbf2
-  corvus_json_schema (0.2.1-x86_64-linux-musl) sha256=da9a73b2593315fdf193b0f02655df2c8b36b2625f3c9191013e1ad8c35a2a4e
+  corvus_json_schema (0.2.2-aarch64-linux-gnu) sha256=a2ae4162c4fe3758ec5d643cf32cbb86cba22ef237ed3d5919ac68e45d53c8a0
+  corvus_json_schema (0.2.2-aarch64-linux-musl) sha256=3e332dc022da1c6a935329bbed95ec05be43d0245298900335c7165f9108f33b
+  corvus_json_schema (0.2.2-arm64-darwin) sha256=8a8b80a8369b27f324b1da78f0285c3e66cef8db63d7f6b88b84620aca414a5a
+  corvus_json_schema (0.2.2-x86_64-darwin) sha256=34a4433e5b66d0aca9b13e2414c0a34ed3ec3165c95e8d0786131680c528fe29
+  corvus_json_schema (0.2.2-x86_64-linux-gnu) sha256=6f4e39277e8b81d0992b646543d423db11be1c5f3387ef330a0f12cad9d57b5f
+  corvus_json_schema (0.2.2-x86_64-linux-musl) sha256=56b86f6b88ace7a4099c9bd427604e72add8eca9d02b94fea0677065ea48d74b
 
 BUNDLED WITH
   4.0.20
